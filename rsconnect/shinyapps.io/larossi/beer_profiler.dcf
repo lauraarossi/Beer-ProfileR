@@ -1,0 +1,10 @@
+name: beer_profiler
+title:
+username:
+account: larossi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2994698
+bundleId: 3731089
+url: https://larossi.shinyapps.io/beer_profiler/
+when: 1602523879.52626
